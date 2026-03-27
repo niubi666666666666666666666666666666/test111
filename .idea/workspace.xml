@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b629ce3-002a-466c-b1f3-8ac747e50d6c" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b629ce3-002a-466c-b1f3-8ac747e50d6c" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,11 +30,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "xiaowu",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "com.bytedance.auto.settings",
     "vue.rearranger.settings.migration": "true"
@@ -72,6 +71,8 @@
       <updated>1774572724439</updated>
       <workItem from="1774572726165" duration="142000" />
       <workItem from="1774602950475" duration="119000" />
+      <workItem from="1774603692520" duration="23000" />
+      <workItem from="1774603726847" duration="528000" />
     </task>
     <servers />
   </component>
