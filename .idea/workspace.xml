@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b629ce3-002a-466c-b1f3-8ac747e50d6c" name="更改" comment="" />
+    <list default="true" id="0b629ce3-002a-466c-b1f3-8ac747e50d6c" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,18 +17,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "2507865306"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;2507865306&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:niubi666666666666666666666666666666/test111.git",
-    "accountId": "84bdcaad-85d3-4ffa-8ebd-75e6ca0792a8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:niubi666666666666666666666666666666/test111.git&quot;,
+    &quot;accountId&quot;: &quot;84bdcaad-85d3-4ffa-8ebd-75e6ca0792a8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -49,7 +51,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "xiaowu",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "com.bytedance.auto.settings",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,7 +86,8 @@
       <workItem from="1774572726165" duration="142000" />
       <workItem from="1774602950475" duration="119000" />
       <workItem from="1774603692520" duration="23000" />
-      <workItem from="1774603726847" duration="1559000" />
+      <workItem from="1774603726847" duration="2279000" />
+      <workItem from="1775012065539" duration="30000" />
     </task>
     <servers />
   </component>
